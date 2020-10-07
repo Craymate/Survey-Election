@@ -162,6 +162,8 @@ dat <- data.frame(
   stringsAsFactors = T
 )
 
+#write.csv(dat,'sim-result.csv')
+
 ```
 
 and we can get our simulated data frame in an ideal state.
@@ -349,3 +351,4 @@ Survey Link: https://docs.google.com/forms/d/e/1FAIpQLSfySY4VjWC50LSK8f1rAKDc723
 
 ![Screenshot](./screenshot.PNG)
 
+The simulation result is here: https://github.com/Craymate/Survey-Election/blob/main/sim-result.csv
