@@ -330,10 +330,6 @@ First of all, ask yourself a question. Why is it not always a good thing to supp
 
 If you find friends who are close to your own ideas and conduct provocative investigations in a small area, the results will of course be very biased.  A good survey should not mislead or influence the concept of the surveyed, let alone select a specific group for the survey, which will run counter to the purpose of the survey.  The survey is a non-interference one-to-many exchange. It is a friendly exchange of information under the protection of respect and protection of the privacy of the other party. Only when the surveyed person is not selected outside the scope, the questionnaire should not be designed with inflammatory questions.  Only when we don’t restrict the investigation scene can we get closer to the original investigation goal.
 
-## Appendices
-
-Survey Link: https://docs.google.com/forms/d/e/1FAIpQLSfySY4VjWC50LSK8f1rAKDc723D3JU2Tkmr_fKuKL7Shlm0Rg/viewform?usp=sf_link
-
 ## Reference
 
 - https://newsinteractives.cbc.ca/elections/poll-tracker/canada/
@@ -346,4 +342,10 @@ Survey Link: https://docs.google.com/forms/d/e/1FAIpQLSfySY4VjWC50LSK8f1rAKDc723
 - Aravind Hebbali (2020). olsrr: Tools for Building OLS Regression
   Models. R package version 0.5.3.
   https://CRAN.R-project.org/package=olsrr
+  
+## Appendices
+
+Survey Link: https://docs.google.com/forms/d/e/1FAIpQLSfySY4VjWC50LSK8f1rAKDc723D3JU2Tkmr_fKuKL7Shlm0Rg/viewform?usp=sf_link
+
+![screenshot](./screenshot.PNG)
 
