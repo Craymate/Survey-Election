@@ -239,7 +239,7 @@ table(dat$platform)
 
 And we are going to visualize it like Figure 1 below:
 
-```{r}
+```{r, fig.align='center'}
 num <- as.numeric(table(dat$platform))
 names <- names(table(dat$platform))
 df <- data.frame(num=num,names=names)
@@ -253,7 +253,7 @@ ggplot(df, aes(x=names, y=num, fill=names)) +
 
 Studying the density distribution of two types of numerical samples can compare the differences between the two types of samples at the same level, and through the method of combination graphs, this comparison is more intuitive:
 
-```{r}
+```{r, fig.align='center'}
 # calculate mean
 mu <- ddply(dat, "gender", summarise, grp.mean=mean(balance1))
 # density plot
@@ -274,7 +274,7 @@ In addition to the density map that can reflect the overall nature, we can also 
 
 If we want to know the difference between the results of two balanced votes, we can use:
 
-```{r}
+```{r, fig.align='center'}
 df <- data.frame(votes = c(dat$balance1,dat$balance2),
                  tags = c(rep('V1',5e3),rep('V2',5e3)))
 
@@ -289,7 +289,7 @@ The result Figure 3 also reflects the similarity of the two simulation variables
 
 If we want to know the difference between the results of two balanced groups, we can use:
 
-```{r}
+```{r, fig.align='center'}
 
 ggplot(dat, aes(x=win, y=balance1, fill=win)) +
   geom_boxplot() +
@@ -301,7 +301,7 @@ Same as before, the result Figure 4 also reflects the similarity of the simulati
 
 Different from the previous drawing, here we use the regression model established before for diagnosis, and use the diagnosis method in the `olsrr` package to draw all the diagnostic images together.
 
-```{r}
+```{r, fig.align='center'}
 ols_plot_diagnostics(linear.model1)
 ```
 
