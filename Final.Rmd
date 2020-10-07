@@ -347,5 +347,5 @@ If you find friends who are close to your own ideas and conduct provocative inve
 
 Survey Link: https://docs.google.com/forms/d/e/1FAIpQLSfySY4VjWC50LSK8f1rAKDc723D3JU2Tkmr_fKuKL7Shlm0Rg/viewform?usp=sf_link
 
-![screenshot](./screenshot.PNG)
+![Screenshot](./screenshot.PNG)
 
