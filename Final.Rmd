@@ -53,7 +53,7 @@ The object of the survey is:
 
 ### Sample Frames and Methodology
 
-1. This survey aims at all civilizations in Canada, so we can get information from all districts and use differences between districts to help political parties make customized decisions.
+1. This survey aims at all residents in Canada, so we can get information from all districts and use differences between districts to help political parties make customized decisions.
 
 2. This survey use online and offline survey methods are used to distribute questionnaires in public places with equal probability and random sampling, which is usually called Simple
 Random Sampling Without Replacement (SRSWOR)^2^, and the questionnaires are distributed on the Internet using a neutral platform.
