@@ -1,5 +1,5 @@
 ---
-title: "Survey of Overall Election Employed by the Conservative Party"
+title: "Polling Survey: The Key of Winning Election"
 output: pdf_document
 date: '2020-10-2'
 author: 'Zhendong Zhang'

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.30)  7 OCT 2020 17:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.30)  8 OCT 2020 04:17
 entering extended mode
 **./Final.tex
 (Final.tex
@@ -588,7 +588,7 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 903.
 Here is how much of TeX's memory you used:
  13707 strings out of 480790
  197789 string characters out of 2913611
- 494783 words of memory out of 3000000
+ 494669 words of memory out of 3000000
  29284 multiletter control sequences out of 15000+200000
  582789 words of font info for 107 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -600,7 +600,7 @@ public/lm/lmr12.pfb><O:/MiKTeX/fonts/type1/public/lm/lmr17.pfb><O:/MiKTeX/fonts
 /type1/public/lm/lmr7.pfb><O:/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><O:/MiKTe
 X/fonts/type1/public/lm/lmtt10.pfb><O:/MiKTeX/fonts/type1/public/lm/lmtti10.pfb
 >
-Output written on Final.pdf (16 pages, 1424935 bytes).
+Output written on Final.pdf (16 pages, 1424493 bytes).
 PDF statistics:
  361 PDF objects out of 1000 (max. 8388607)
  112 named destinations out of 1000 (max. 500000)
